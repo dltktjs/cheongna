@@ -1,0 +1,23 @@
+@charset 'utf-8';
+
+
+/* seo-dong-store Style */
+.dong ul{display: flex;align-items: flex-end; flex-flow: column nowrap; justify-content: flex-start; height: 460px; background-image: url("/images/bg1.png"); background-size: contain ; background-repeat: no-repeat;background-position: center center ;}
+.dong li{border: ridge; padding: 34px; width: 16%; height: 154px; text-align:center;}
+.dong li img{height: 50px;}
+
+/* .NOTICE Style */
+.notice .article{float:left;width:306.6666666666667px;margin-right:20px;}
+.notice .article:last-child{margin-right:0;}
+.notice h2{margin-bottom:7px;font-weight:700;font-size:22px;color:#333;}
+.notice p{font-weight:300;font-size:14px;color:#333;}
+.notice li .news-tit{float:left;font-weight:300;}
+.notice li .news-date{float:right;font-weight:300;}
+
+
+/* LIVE Style */
+.live{padding-bottom:20px;}
+.live h2{float:left;margin-right:1em;font-weight:700;font-size:22px;color:#333;}
+.live ul{float:left;}
+.live li{float:left;margin-right:0.5em;}
+.live img{height:24px;filter:opacity(50%);}
