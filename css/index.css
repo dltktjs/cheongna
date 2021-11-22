@@ -2,7 +2,7 @@
 
 
 /* seo-dong-store Style */
-.dong ul{display: flex;align-items: flex-end; flex-flow: column nowrap; justify-content: flex-start; height: 460px; background-image: url("/images/bg1.png"); background-size: contain ; background-repeat: no-repeat;background-position: center center ;}
+.dong ul{display: flex;align-items: flex-end; flex-flow: column nowrap; justify-content: flex-start; height: 460px; background-image: url("../images/bg1.png"); background-size: contain ; background-repeat: no-repeat;background-position: center center ;}
 .dong li{border: ridge; padding: 34px; width: 16%; height: 154px; text-align:center;}
 .dong li img{height: 50px;}
 
